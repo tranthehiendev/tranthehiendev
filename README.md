@@ -44,12 +44,6 @@ I'm **Tran The Hien** – a passionate **Fullstack Developer** 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-![Hien's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🔗 Connect with me
 
 * 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
